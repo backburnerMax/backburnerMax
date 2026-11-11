@@ -21,7 +21,7 @@
 - 👨‍💻 **Role:** Information Technology Supervisor at **PT Artha Solusi Aditama**.
 - ⚡ **Current Focus:** Developing cross-platform mobile apps with **React Native** & **Reactwind**, powered by a **TypeScript** backend architecture.
 - 🎯 **Age:** 19 years old, based in Batam, Indonesia.
-- 🚀 **Vibe:** Pragmatic software engineering — focused on clean REST APIs, solid database schema designs, and automated dev workflows.
+- 🚀 **Vibe:** Pragmatic software engineering, focused on clean REST APIs, solid database schema designs, and automated dev workflows.
 
 ---
 
