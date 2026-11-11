@@ -57,12 +57,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=cyberpunk&hide_border=false" alt="Cyberpunk Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=cyberpunk&hide_border=false" alt="Cyberpunk Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=backburnerMax&show_icons=true&theme=cyberpunk&hide_border=false" alt="Cyberpunk Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backburnerMax&layout=compact&theme=cyberpunk&hide_border=false" alt="Cyberpunk Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=cyberpunk&hide_border=false" alt="Cyberpunk Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=backburnerMax&theme=cyberpunk&hide_border=false" alt="Cyberpunk Streak" width="98%" />
 </p>
 
 ---
