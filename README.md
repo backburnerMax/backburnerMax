@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:FF007F,100:8A2BE2&height=220&section=header&text=Ridho%20Kurnia%20Ramadhan&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header Background"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:52fff1,100:005387&height=220&section=header&text=Ridho%20Kurnia%20Ramadhan&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header Background"/>
 </p>
 
 <p align="center">
